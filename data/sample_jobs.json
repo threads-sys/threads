@@ -1,0 +1,25 @@
+[
+  {
+    "source": "ハローワーク",
+    "company": "（例）株式会社サンプル観光",
+    "industry": "旅館,ホテル",
+    "employees": "30人(うち女性12人)",
+    "contact": "採用担当 山田 太郎",
+    "phone": "03-0000-0000",
+    "email": "saiyo@example.com",
+    "url": "https://example.com",
+    "foreign_hiring": "あり",
+    "language": "英語",
+    "job_number": "13000-00000000",
+    "headcount": "2人",
+    "wage": "時給1,300円",
+    "location": "〒000-0000 東京都千代田区0-0-0",
+    "entry_date": "2026/07/18",
+    "first_approach": "",
+    "last_contact": "",
+    "status": "未着手",
+    "proposed_role": "客室清掃(特定技能「宿泊」)",
+    "field": "宿泊",
+    "notes": "サンプル行。動作確認後は削除してください。"
+  }
+]
